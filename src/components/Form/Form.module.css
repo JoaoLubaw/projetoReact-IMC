@@ -1,0 +1,35 @@
+* {
+    background-color: #ffcccc;
+}
+
+.container {
+    text-align: center;
+    margin-top: 10%;
+}
+
+.form {
+    font-size: 20px;
+
+}
+
+.form input {
+    padding: 15px;
+    font-size: 15px;
+    margin-left: 10px;
+}
+
+button {
+    padding: 10px;
+    margin-top: 20px;
+    background-color:#67e6dc;
+}
+
+button:hover {
+    cursor:pointer;
+}
+
+.linksaude {
+    margin-top: 200px;
+    font-size: 20px;
+    font-weight: 400;
+}
